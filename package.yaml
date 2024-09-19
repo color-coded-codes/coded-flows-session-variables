@@ -1,7 +1,7 @@
 name: Session Variables
 pname: session_variables
 description: Flow session variables management
-version: 0.1.0
+version: 0.1.1
 icon: code
 private: false
 base: true
